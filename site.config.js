@@ -6,9 +6,9 @@ const CONFIG = {
     role: "frontend developer",
     bio: "I develop everything using node.",
     email: "satoki252595@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
-    instagram: "",
+    linkedin: "",
+    github: "satoki252595",
+    instagram: "https://www.instagram.com/happy_money252595/?hl=ja",
   },
   projects: [
     {
@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "はぴまねの株ラボ",
-    description: "welcome to morethan-log!",
+    description: "welcome to kabu-labo!",
   },
 
   // CONFIG configration (required)
