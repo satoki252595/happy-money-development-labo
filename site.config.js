@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "はぴまねの株ラボ",
+    name: "はぴまねの開発ラボ",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "frontend developer",
     bio: "I develop everything using node.",
@@ -13,17 +13,17 @@ const CONFIG = {
   projects: [
     {
       name: `Youtube`,
-      href: "https://www.youtube.com/channel/UC1gGJzc9nPDlV_GZMktA-8A",
+      href: "https://www.youtube.com/channel/UCog5_XMavDF46L6DDj2pODw",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "はぴまねの株ラボ",
+    title: "はぴまねの開発ラボ",
     description: "welcome to kabu-labo!",
   },
 
   // CONFIG configration (required)
-  link: "https://happy-money-kabu-labo.vercel.app",
+  link: "happy-money-development-labo.vercel.app",
   since: 2024, // If leave this empty, current year will be used.
   lang: "ja-JP", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
